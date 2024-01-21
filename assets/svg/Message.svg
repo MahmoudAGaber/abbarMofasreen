@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.611" height="180.322" viewBox="0 0 180.611 180.322">
+  <g id="_038---Confirm-Message" data-name="038---Confirm-Message" transform="translate(0 -0.34)">
+    <path id="Path" d="M120.667,5H155.7a24.912,24.912,0,0,1,24.912,24.912V117.1A24.912,24.912,0,0,1,155.7,142.015H112.1L95.568,167.176a6.256,6.256,0,0,1-10.525,0L68.508,142.015h-43.6A24.912,24.912,0,0,1,0,117.1V29.912A24.912,24.912,0,0,1,24.912,5Z" transform="translate(0 10.613)" fill="#f5f5f5" fill-rule="evenodd"/>
+    <path id="Path-2" data-name="Path" d="M6.114,26.684A3.114,3.114,0,0,1,3,23.57,15.589,15.589,0,0,1,18.57,8a3.114,3.114,0,0,1,0,6.228A9.342,9.342,0,0,0,9.228,23.57a3.114,3.114,0,0,1-3.114,3.114Z" transform="translate(6.342 16.954)" fill="#f7c623" fill-rule="evenodd"/>
+    <path id="Path-3" data-name="Path" d="M52.114,58.684a3.114,3.114,0,1,1,0-6.228,9.342,9.342,0,0,0,9.342-9.342,3.114,3.114,0,0,1,6.228,0A15.589,15.589,0,0,1,52.114,58.684Z" transform="translate(103.585 84.602)" fill="#f7c623" fill-rule="evenodd"/>
+    <g id="Group_821" data-name="Group 821" transform="translate(37.368 90.348)">
+      <path id="Path-4" data-name="Path" d="M33.8,35.228H15.114a3.114,3.114,0,1,1,0-6.228H33.8a3.114,3.114,0,1,1,0,6.228Z" transform="translate(-12 -29)" fill="#f7c623" fill-rule="evenodd"/>
+      <path id="Path-5" data-name="Path" d="M93.622,35.228H25.114a3.114,3.114,0,1,1,0-6.228H93.622a3.114,3.114,0,1,1,0,6.228Z" transform="translate(9.14 -29)" fill="#f7c623" fill-rule="evenodd"/>
+      <path id="Path-6" data-name="Path" d="M114.761,43.228H15.114a3.114,3.114,0,1,1,0-6.228h99.647a3.114,3.114,0,0,1,0,6.228Z" transform="translate(-12 -12.088)" fill="#f7c623" fill-rule="evenodd"/>
+    </g>
+    <ellipse id="Oval" cx="38.082" cy="37.216" rx="38.082" ry="37.216" transform="translate(52.223 0.34)" fill="#f7c623"/>
+    <path id="Path-7" data-name="Path" d="M36.544,44.342a3.114,3.114,0,0,1-2.2-.912L21.886,30.973a3.114,3.114,0,0,1,4.4-4.4L36.544,36.825,65.482,7.886a3.114,3.114,0,0,1,4.4,4.4l-31.14,31.14A3.114,3.114,0,0,1,36.544,44.342Z" transform="translate(44.42 14.866)" fill="#ecf0f1" fill-rule="evenodd"/>
+  </g>
+</svg>
